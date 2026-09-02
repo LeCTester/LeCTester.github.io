@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What's up with this guy?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I go by Atenge or "Your Average Goldfish" in online spaces, but if you have been sent here from me via my resume, then you already know the other names I go by. Though you probably shouldn't be here if you *are* from my resume(s) lol.
+Here's some qualities / facts about me:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- WAY too many connections.
+- I'm extremely loyal to my friends.
+- I speak against injustice constantly.
+- I am compassionate, empathetic & care for everyone!
+- A bit on the slower side, I try to be patient with everyone, and I hope everyone can extend that to me as well.
 
-What else do you need?
+Feel free to contact my discord for further questions (@youraveragegoldfish)
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+:).
