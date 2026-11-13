@@ -17,7 +17,7 @@ Here's some qualities / facts about me:
 Feel free to contact my discord for further questions (@youraveragegoldfish)
 
 <details markdown="1">
-<summary>### My story</summary>
+### <summary>My story</summary>
   Testing Testing 123
 </details>
 :).
