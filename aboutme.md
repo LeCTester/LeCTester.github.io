@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: What's up with this guy?
+tags: [personal]
 ---
 
 I go by Atenge or "Your Average Goldfish" in online spaces, but if you have been sent here from me via my resume, then you already know the other names I go by. Though you probably shouldn't be here if you *are* from my resume(s) lol.
@@ -15,6 +16,10 @@ Here's some qualities / facts about me:
 
 Feel free to contact my discord for further questions (@youraveragegoldfish)
 
-### My story
-
+<details markdown="1">
+<summary>Click here!</summary>
+Here you can see an **expandable** section
+  
+<summary>### My story</summary>
+</details>
 :).
